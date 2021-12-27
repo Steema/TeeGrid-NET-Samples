@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="..\Themes\VirtualData\MyData.cs" Link="VirtualData\MyData.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="VirtualData\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Steema.TeeGrid.NET50.WinForms" Version="1.2021.5.19" />
+  </ItemGroup>
+
+</Project>
