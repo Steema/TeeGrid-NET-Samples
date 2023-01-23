@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Steema.TeeGrid.NET50.WinForms" Version="1.2021.5.19" />
+    <PackageReference Include="Steema.TeeGrid.NET" Version="1.2021.9.28" />
   </ItemGroup>
 
 </Project>
