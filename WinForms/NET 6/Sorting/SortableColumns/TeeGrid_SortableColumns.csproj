@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Steema.TeeGrid.NET" Version="1.2021.9.28" />
+    <PackageReference Include="Steema.TeeGrid.NET" Version="1.2023.1.23" />
   </ItemGroup>
 
 </Project>

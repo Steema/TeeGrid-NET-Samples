@@ -58,8 +58,8 @@
     <Reference Include="TeeChart.Business.Xaml.WPF, Version=4.2022.12.1, Culture=neutral, PublicKeyToken=b971c9f8a389fbeb, processorArchitecture=MSIL">
       <HintPath>..\packages\Steema.TeeChart.NET.Business.5.2022.12.1\lib\net40\TeeChart.Business.Xaml.WPF.dll</HintPath>
     </Reference>
-    <Reference Include="TeeGrid.WinForm, Version=1.2021.9.28, Culture=neutral, PublicKeyToken=cc97f2073aa08b08, processorArchitecture=MSIL">
-      <HintPath>..\packages\Steema.TeeGrid.NET.1.2021.9.28\lib\net\TeeGrid.WinForm.dll</HintPath>
+    <Reference Include="TeeGrid.WinForm, Version=1.2023.1.23, Culture=neutral, PublicKeyToken=cc97f2073aa08b08, processorArchitecture=MSIL">
+      <HintPath>..\packages\Steema.TeeGrid.NET.1.2023.1.23\lib\net\TeeGrid.WinForm.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
