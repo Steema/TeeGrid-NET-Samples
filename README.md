@@ -11,7 +11,7 @@ For more information visit [https://www.steema.com/product/net](https://www.stee
 
 <br>
 
-### Nuget Package:
+### Nuget package
 [Nuget: https://www.nuget.org/packages/Steema.TeeGrid.NET](https://www.nuget.org/packages/Steema.TeeGrid.NET)
  
 ### Useful pages
