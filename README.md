@@ -10,6 +10,7 @@ For more information visit [https://www.steema.com/product/net](https://www.stee
 ![screenshot](https://www.steema.com/uploads/products/themes3.jpg ".NET Data Grid")
 
 <br>
+
 ### Nuget Package:
 [Nuget: https://www.nuget.org/packages/Steema.TeeGrid.NET](https://www.nuget.org/packages/Steema.TeeGrid.NET)
  
@@ -21,7 +22,6 @@ For more information visit [https://www.steema.com/product/net](https://www.stee
  
 - [License](https://www.steema.com/licensing/gridnet)
 
-<br>
 
 ### Support and Feedback
 
