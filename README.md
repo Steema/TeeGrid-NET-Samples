@@ -1,9 +1,9 @@
-# TeeGridfor .NET
+# TeeGrid for .NET
 ## Lightweight and fully-featured data grid control
 TeeGrid for .NET is a native c# grid control currently available for WinForms projects and NET Core, for use as an ASP.NET Core MVC data grid rendering to directly to native HTML & jsGrid grids.
 The feature-packed data grid provides features such as sorting, grouping or filtering grid data, resizable columns, master-detail view, draggable selections, grid scrolling. These built-in features can be enabled just using a few property settings.
 The data grid control can be linked to any sort of database, like a Dataset, DataSource, arrays of objects or records, pure 'Virtual Mode' or any other source. <br>
-For more information visit [https://www.steema.com/product/net](https://www.steema.com/product/gridnet)
+For more information visit [https://www.steema.com/product/gridnet](https://www.steema.com/product/gridnet)
 
 <br>
 
