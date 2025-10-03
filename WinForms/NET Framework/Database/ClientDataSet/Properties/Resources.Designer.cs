@@ -19,7 +19,7 @@ namespace ClientDataSet.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -89,11 +89,11 @@ namespace ClientDataSet.Properties {
         ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; standalone=&quot;yes&quot;?&gt;
         ///&lt;DocumentElement&gt;
         ///  &lt;ROW&gt;
-        ///    &lt;NAME&gt;Angel Fish&lt;/NAME&gt;
-        ///    &lt;SIZE&gt;2&lt;/SIZE&gt;
-        ///    &lt;WEIGHT&gt;2&lt;/WEIGHT&gt;
-        ///    &lt;AREA&gt;Computer Aquariums&lt;/AREA&gt;
-        ///    &lt;BMP&gt;AQAAAfY+AABCTfY+AAAAAAAAdgAAACgAAADIAAAAoAAAAAEABAAAAAAAgD4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC/AAC/AAAAv78AvwAAAL8AvwC/vwAAwMDAAICAgAAAAP8AAP8AAAD//wD/AAAA/wD/AP//AAD///8AAA7u4CoqKgDu7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u4iIgAAKiogDu7u7u7u7u7u7u7 [rest of string was truncated]&quot;;.
+        ///    &lt;FRUIT&gt;Apple&lt;/FRUIT&gt;
+        ///    &lt;PRODUCTION&gt;89&lt;/PRODUCTION&gt;
+        ///    &lt;WEIGHT&gt;179&lt;/WEIGHT&gt;
+        ///    &lt;TOPCOUNTRY&gt;China&lt;/TOPCOUNTRY&gt;
+        ///    &lt;IMAGE&gt;/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISERUSExIVFRMVFxkYGBYYGBgWFxUWGBUWGBUVFhgdHSggGBolHRcXITEhJSkrLi4uGh8zODMsNygtLisBCgoKDg0OGxAQGi0lHyUtNS01LS0tLS0uLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLy0tLS0tLf/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABAIDBQYHAQj/xAA8EAACAQIDBQQIBgIBBAMAAAAAAQIDEQQhMQUS [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string ClientDataSet2NET {
             get {

@@ -8,9 +8,10 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>TeeGrid_Static_Charts</RootNamespace>
     <AssemblyName>TeeGrid_Static_Charts</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -58,8 +59,8 @@
     <Reference Include="TeeChart.Business.Xaml.WPF, Version=4.2022.12.1, Culture=neutral, PublicKeyToken=b971c9f8a389fbeb, processorArchitecture=MSIL">
       <HintPath>..\packages\Steema.TeeChart.NET.Business.5.2022.12.1\lib\net40\TeeChart.Business.Xaml.WPF.dll</HintPath>
     </Reference>
-    <Reference Include="TeeGrid.WinForm, Version=1.2023.1.23, Culture=neutral, PublicKeyToken=cc97f2073aa08b08, processorArchitecture=MSIL">
-      <HintPath>..\packages\Steema.TeeGrid.NET.1.2023.1.23\lib\net\TeeGrid.WinForm.dll</HintPath>
+    <Reference Include="TeeGrid.WinForm, Version=1.2025.10.2, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Steema.TeeGrid.NET.1.2025.10.2\lib\net\TeeGrid.WinForm.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -82,6 +83,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
