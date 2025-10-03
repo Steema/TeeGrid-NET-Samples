@@ -2,16 +2,17 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Steema.TeeGrid.Themes;
 using Steema.TeeGrid.Data.Reflection;
-using VirtualData;
 using Steema.TeeGrid.Painter;
+using Steema.TeeGrid.Themes;
 using Steema.TeeGrid.WinForm.Editors;
+using VirtualData;
 
 namespace TeeGrid_Themes_WinForm
 {
@@ -101,8 +102,13 @@ namespace TeeGrid_Themes_WinForm
 				tTeeGrid1.Grid.Export.JSGrid.Save();
 			}
 
-			System.Diagnostics.Process.Start(path + @"\index.html");
-		}
+            Process p = new()
+            {
+                StartInfo = new(path + @"\index.html")
+                { UseShellExecute = true }
+            };
+            p.Start();
+        }
 
 		private void button1_Click_1(object sender, EventArgs e)
 		{

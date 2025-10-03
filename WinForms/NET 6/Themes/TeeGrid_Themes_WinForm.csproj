@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net6.0-windows</TargetFramework>
+    <TargetFramework>net6.0-windows7.0</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Steema.TeeGrid.NET" Version="1.2023.1.23" />
+    <PackageReference Include="Steema.TeeGrid.NET" Version="1.2025.10.2" />
   </ItemGroup>
 
 </Project>
