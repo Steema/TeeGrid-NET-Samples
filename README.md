@@ -16,7 +16,7 @@ For more information visit [https://www.steema.com/product/gridnet](https://www.
  
 ### Useful pages
 
-- [Getting Started Guide](https://github.com/Steema/TeeGrid-NET-Samples/wiki))
+- [Getting Started Guide](https://github.com/Steema/TeeGrid-NET-Samples/wiki)
  
 - [Documentation & API Reference](https://www.steema.com/docs/TeeGridNET/)
  
